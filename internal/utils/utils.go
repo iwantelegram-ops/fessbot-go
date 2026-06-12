@@ -9,8 +9,8 @@ import (
 
 	"github.com/gotd/td/telegram/message"
 	"github.com/gotd/td/tg"
-	"github.com/youruser/fessbot/internal/config"
-	"github.com/youruser/fessbot/internal/db"
+	"fessbot/internal/config"
+	"fessbot/internal/db"
 )
 
 // ProgressBar membuat progress bar visual
