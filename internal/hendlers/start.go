@@ -11,8 +11,8 @@ import (
 	"github.com/celestix/gotgproto/ext"
 	"github.com/gotd/td/telegram/message"
 	"github.com/gotd/td/telegram/message/markup"
-	"github.com/youruser/fessbot/internal/config"
-	"github.com/youruser/fessbot/internal/db"
+	"fessbot/internal/config"
+	"fessbot/internal/db"
 )
 
 var startLog = log.New(log.Writer(), "[start] ", log.LstdFlags)

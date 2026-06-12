@@ -14,9 +14,9 @@ import (
 	"github.com/gotd/td/telegram/message"
 	"github.com/gotd/td/telegram/message/markup"
 	"github.com/gotd/td/tg"
-	"github.com/youruser/fessbot/internal/config"
-	"github.com/youruser/fessbot/internal/db"
-	"github.com/youruser/fessbot/internal/utils"
+	"fessbot/internal/config"
+	"fessbot/internal/db"
+	"fessbot/internal/utils"
 	"go.mongodb.org/mongo-driver/bson"
 )
 

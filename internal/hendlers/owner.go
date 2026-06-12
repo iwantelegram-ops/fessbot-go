@@ -12,9 +12,9 @@ import (
 	"github.com/celestix/gotgproto/ext"
 	"github.com/gotd/td/telegram/message"
 	"github.com/gotd/td/telegram/message/markup"
-	"github.com/youruser/fessbot/internal/config"
-	"github.com/youruser/fessbot/internal/db"
-	"github.com/youruser/fessbot/internal/utils"
+	"fessbot/internal/config"
+	"fessbot/internal/db"
+	"fessbot/internal/utils"
 	"go.mongodb.org/mongo-driver/bson"
 )
 
