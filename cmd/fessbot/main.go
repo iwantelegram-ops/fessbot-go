@@ -9,9 +9,9 @@ import (
 
 	"github.com/celestix/gotgproto"
 	"github.com/celestix/gotgproto/sessionMaker"
-	"github.com/youruser/fessbot/internal/config"
-	"github.com/youruser/fessbot/internal/db"
-	"github.com/youruser/fessbot/internal/handlers"
+	"fessbot/internal/config"
+	"fessbot/internal/db"
+	"fessbot/internal/handlers"
 )
 
 func main() {
